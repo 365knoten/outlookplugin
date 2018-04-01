@@ -40,7 +40,8 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://iusethecode.github.io/outlookplugin/OutlookAddin/MessageRead.aspx"/>
+        <SourceLocation DefaultValue="https://iusethecode.github.io/outlookplugin/OutlookAddin/MessageRead.html
+        "/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -104,8 +105,8 @@
         <bt:Image id="icon80" DefaultValue="https://iusethecode.github.io/outlookplugin//OutlookAddin/Images/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="functionFile" DefaultValue="https://iusethecode.github.io/outlookplugin//OutlookAddin/Functions/FunctionFile.aspx"/>
-        <bt:Url id="messageReadTaskPaneUrl" DefaultValue="https://iusethecode.github.io/outlookplugin//OutlookAddin/MessageRead.aspx"/>
+        <bt:Url id="functionFile" DefaultValue="https://iusethecode.github.io/outlookplugin//OutlookAddin/Functions/FunctionFile.html"/>
+        <bt:Url id="messageReadTaskPaneUrl" DefaultValue="https://iusethecode.github.io/outlookplugin//OutlookAddin/MessageRead.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="groupLabel" DefaultValue="WillmerKöster"/>
